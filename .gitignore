@@ -1,0 +1,8 @@
+.bundle
+bin/
+assets/js/build/
+node_modules/
+vendor/
+_site/assets/*.js
+_site/assets/*.css
+_site/*.html

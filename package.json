@@ -1,0 +1,11 @@
+{
+  "name": "countdown_app",
+  "version": "1.0.0",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "countdown": "^2.6.0",
+    "watch": "^0.18.0"
+  },
+  "author": "Rafael Macedo",
+  "license": "ISC"
+}
